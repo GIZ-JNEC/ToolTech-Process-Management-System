@@ -25,7 +25,7 @@ This task management system script contains two sections :-
 
 --> Admin can comment on tasks and can delete or hide the tasks.
 
-2)User 
+2) User 
 
 --> User can give task to each other 
 
