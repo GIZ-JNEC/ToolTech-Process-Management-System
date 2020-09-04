@@ -2,7 +2,7 @@
 
 # Project Demo:
 
-![Project Demo](https://twitter.com/Massiaifc/status/1297726643587280896?s=09)
+[Lets get to the project demo that was published on the official handle of MASSIA IFC](https://twitter.com/Massiaifc/status/1297726643587280896?s=09)
 
 # Technology Stack:
 
