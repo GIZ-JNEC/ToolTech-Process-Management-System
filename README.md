@@ -2,7 +2,25 @@
 
 # Project Demo:
 
-[Lets get to the project demo that was published on the official handle of MASSIA IFC](https://twitter.com/Massiaifc/status/1297726643587280896?s=09)
+[First lets get to the project demo that was published on the official handle of MASSIA IFC](https://twitter.com/Massiaifc/status/1297726643587280896?s=09)
+
+
+# Project Screenshots:
+
+### Admin Login
+![Admin Login](admin-login.png)
+<br>
+
+### User Login
+![User Login](user-login.png)
+<br>
+
+### Admin Dashboard
+![Admin Dashboard](admin-dashboard.png)
+<br>
+
+### User Dashboard
+![User Dashboard](user-dashboard.png)
 
 # Technology Stack:
 
